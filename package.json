@@ -1,0 +1,36 @@
+{
+  "name": "personal-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alissonperim/personal-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alissonperim/personal-template/issues"
+  },
+  "homepage": "https://github.com/alissonperim/personal-template#readme",
+  "dependencies": {
+    "typescript": "^4.6.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/typescript": "^2.0.0",
+    "@types/uuid": "^8.3.4",
+    "@typescript-eslint/eslint-plugin": "^5.15.0",
+    "@typescript-eslint/parser": "^5.15.0",
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0",
+    "tsconfig-paths": "^3.14.0"
+  }
+}
